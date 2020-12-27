@@ -1,0 +1,250 @@
+Movie: 1.      The Shawshank Redemption(1994) | Rating: 9.2
+Movie: 2.      The Godfather(1972) | Rating: 9.1
+Movie: 3.      The Godfather: Part II(1974) | Rating: 9.0
+Movie: 4.      The Dark Knight(2008) | Rating: 9.0
+Movie: 5.      12 Angry Men(1957) | Rating: 8.9
+Movie: 6.      Schindler's List(1993) | Rating: 8.9
+Movie: 7.      The Lord of the Rings: The Return of the King(2003) | Rating: 8.9
+Movie: 8.      Pulp Fiction(1994) | Rating: 8.8
+Movie: 9.      Il buono, il brutto, il cattivo(1966) | Rating: 8.8
+Movie: 10.      The Lord of the Rings: The Fellowship of the Ring(2001) | Rating: 8.8
+Movie: 11.      Fight Club(1999) | Rating: 8.8
+Movie: 12.      Forrest Gump(1994) | Rating: 8.8
+Movie: 13.      Inception(2010) | Rating: 8.7
+Movie: 14.      Star Wars: Episode V - The Empire Strikes Back(1980) | Rating: 8.7
+Movie: 15.      The Lord of the Rings: The Two Towers(2002) | Rating: 8.7
+Movie: 16.      The Matrix(1999) | Rating: 8.6
+Movie: 17.      Goodfellas(1990) | Rating: 8.6
+Movie: 18.      One Flew Over the Cuckoo's Nest(1975) | Rating: 8.6
+Movie: 19.      Shichinin no samurai(1954) | Rating: 8.6
+Movie: 20.      Se7en(1995) | Rating: 8.6
+Movie: 21.      Cidade de Deus(2002) | Rating: 8.6
+Movie: 22.      La vita è bella(1997) | Rating: 8.6
+Movie: 23.      The Silence of the Lambs(1991) | Rating: 8.6
+Movie: 24.      It's a Wonderful Life(1946) | Rating: 8.6
+Movie: 25.      Star Wars(1977) | Rating: 8.6
+Movie: 26.      Gisaengchung(2019) | Rating: 8.6
+Movie: 27.      Saving Private Ryan(1998) | Rating: 8.5
+Movie: 28.      Sen to Chihiro no kamikakushi(2001) | Rating: 8.5
+Movie: 29.      The Green Mile(1999) | Rating: 8.5
+Movie: 30.      Interstellar(2014) | Rating: 8.5
+Movie: 31.      Léon(1994) | Rating: 8.5
+Movie: 32.      The Usual Suspects(1995) | Rating: 8.5
+Movie: 33.      Seppuku(1962) | Rating: 8.5
+Movie: 34.      The Lion King(1994) | Rating: 8.5
+Movie: 35.      American History X(1998) | Rating: 8.5
+Movie: 36.      Terminator 2: Judgment Day(1991) | Rating: 8.5
+Movie: 37.      The Pianist(2002) | Rating: 8.5
+Movie: 38.      Back to the Future(1985) | Rating: 8.5
+Movie: 39.      Modern Times(1936) | Rating: 8.5
+Movie: 40.      Psycho(1960) | Rating: 8.5
+Movie: 41.      Gladiator(2000) | Rating: 8.5
+Movie: 42.      City Lights(1931) | Rating: 8.5
+Movie: 43.      The Intouchables(2011) | Rating: 8.5
+Movie: 44.      The Departed(2006) | Rating: 8.5
+Movie: 45.      Whiplash(2014) | Rating: 8.5
+Movie: 46.      The Prestige(2006) | Rating: 8.5
+Movie: 47.      Once Upon a Time in the West(1968) | Rating: 8.5
+Movie: 48.      Hotaru no haka(1988) | Rating: 8.4
+Movie: 49.      Joker(2019) | Rating: 8.4
+Movie: 50.      Casablanca(1942) | Rating: 8.4
+Movie: 51.      Rear Window(1954) | Rating: 8.4
+Movie: 52.      Nuovo Cinema Paradiso(1988) | Rating: 8.4
+Movie: 53.      Alien(1979) | Rating: 8.4
+Movie: 54.      Apocalypse Now(1979) | Rating: 8.4
+Movie: 55.      Raiders of the Lost Ark(1981) | Rating: 8.4
+Movie: 56.      Memento(2000) | Rating: 8.4
+Movie: 57.      The Great Dictator(1940) | Rating: 8.4
+Movie: 58.      The Lives of Others(2006) | Rating: 8.4
+Movie: 59.      Django Unchained(2012) | Rating: 8.4
+Movie: 60.      Paths of Glory(1957) | Rating: 8.4
+Movie: 61.      The Shining(1980) | Rating: 8.4
+Movie: 62.      Avengers: Infinity War(2018) | Rating: 8.4
+Movie: 63.      WALL·E(2008) | Rating: 8.4
+Movie: 64.      Sunset Blvd.(1950) | Rating: 8.4
+Movie: 65.      Spider-Man: Into the Spider-Verse(2018) | Rating: 8.4
+Movie: 66.      Mononoke-hime(1997) | Rating: 8.4
+Movie: 67.      Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb(1964) | Rating: 8.4
+Movie: 68.      Oldeuboi(2003) | Rating: 8.4
+Movie: 69.      Witness for the Prosecution(1957) | Rating: 8.4
+Movie: 70.      Avengers: Endgame(2019) | Rating: 8.3
+Movie: 71.      The Dark Knight Rises(2012) | Rating: 8.3
+Movie: 72.      Once Upon a Time in America(1984) | Rating: 8.3
+Movie: 73.      Aliens(1986) | Rating: 8.3
+Movie: 74.      Kimi no na wa.(2016) | Rating: 8.3
+Movie: 75.      1917(2019) | Rating: 8.3
+Movie: 76.      Coco(2017) | Rating: 8.3
+Movie: 77.      American Beauty(1999) | Rating: 8.3
+Movie: 78.      Braveheart(1995) | Rating: 8.3
+Movie: 79.      Das Boot(1981) | Rating: 8.3
+Movie: 80.      3 Idiots(2009) | Rating: 8.3
+Movie: 81.      Toy Story(1995) | Rating: 8.3
+Movie: 82.      Tengoku to jigoku(1963) | Rating: 8.3
+Movie: 83.      Taare Zameen Par(2007) | Rating: 8.3
+Movie: 84.      Star Wars: Episode VI - Return of the Jedi(1983) | Rating: 8.3
+Movie: 85.      Amadeus(1984) | Rating: 8.3
+Movie: 86.      Reservoir Dogs(1992) | Rating: 8.3
+Movie: 87.      Inglourious Basterds(2009) | Rating: 8.3
+Movie: 88.      Good Will Hunting(1997) | Rating: 8.3
+Movie: 89.      2001: A Space Odyssey(1968) | Rating: 8.3
+Movie: 90.      Requiem for a Dream(2000) | Rating: 8.3
+Movie: 91.      Vertigo(1958) | Rating: 8.3
+Movie: 92.      M - Eine Stadt sucht einen Mörder(1931) | Rating: 8.3
+Movie: 93.      Dangal(2016) | Rating: 8.3
+Movie: 94.      Eternal Sunshine of the Spotless Mind(2004) | Rating: 8.3
+Movie: 95.      Citizen Kane(1941) | Rating: 8.3
+Movie: 96.      Jagten(2012) | Rating: 8.3
+Movie: 97.      Full Metal Jacket(1987) | Rating: 8.3
+Movie: 98.      North by Northwest(1959) | Rating: 8.3
+Movie: 99.      A Clockwork Orange(1971) | Rating: 8.3
+Movie: 100.      Snatch(2000) | Rating: 8.2
+Movie: 101.      The Kid(1921) | Rating: 8.2
+Movie: 102.      Capharnaüm(2018) | Rating: 8.2
+Movie: 103.      Ladri di biciclette(1948) | Rating: 8.2
+Movie: 104.      Singin' in the Rain(1952) | Rating: 8.2
+Movie: 105.      Scarface(1983) | Rating: 8.2
+Movie: 106.      Taxi Driver(1976) | Rating: 8.2
+Movie: 107.      Amélie(2001) | Rating: 8.2
+Movie: 108.      Lawrence of Arabia(1962) | Rating: 8.2
+Movie: 109.      The Sting(1973) | Rating: 8.2
+Movie: 110.      Toy Story 3(2010) | Rating: 8.2
+Movie: 111.      Metropolis(1927) | Rating: 8.2
+Movie: 112.      Per qualche dollaro in più(1965) | Rating: 8.2
+Movie: 113.      Ikiru(1952) | Rating: 8.2
+Movie: 114.      Jodaeiye Nader az Simin(2011) | Rating: 8.2
+Movie: 115.      Double Indemnity(1944) | Rating: 8.2
+Movie: 116.      The Apartment(1960) | Rating: 8.2
+Movie: 117.      To Kill a Mockingbird(1962) | Rating: 8.2
+Movie: 118.      Incendies(2010) | Rating: 8.2
+Movie: 119.      Indiana Jones and the Last Crusade(1989) | Rating: 8.2
+Movie: 120.      Up(2009) | Rating: 8.2
+Movie: 121.      L.A. Confidential(1997) | Rating: 8.2
+Movie: 122.      Monty Python and the Holy Grail(1975) | Rating: 8.2
+Movie: 123.      Heat(1995) | Rating: 8.2
+Movie: 124.      Die Hard(1988) | Rating: 8.2
+Movie: 125.      Rashômon(1950) | Rating: 8.2
+Movie: 126.      Yôjinbô(1961) | Rating: 8.2
+Movie: 127.      Batman Begins(2005) | Rating: 8.2
+Movie: 128.      Green Book(2018) | Rating: 8.2
+Movie: 129.      Der Untergang(2004) | Rating: 8.2
+Movie: 130.      Unforgiven(1992) | Rating: 8.2
+Movie: 131.      Bacheha-Ye aseman(1997) | Rating: 8.2
+Movie: 132.      Idi i smotri(1985) | Rating: 8.2
+Movie: 133.      Some Like It Hot(1959) | Rating: 8.2
+Movie: 134.      Hauru no ugoku shiro(2004) | Rating: 8.2
+Movie: 135.      Ran(1985) | Rating: 8.2
+Movie: 136.      The Great Escape(1963) | Rating: 8.2
+Movie: 137.      All About Eve(1950) | Rating: 8.2
+Movie: 138.      A Beautiful Mind(2001) | Rating: 8.2
+Movie: 139.      Casino(1995) | Rating: 8.2
+Movie: 140.      Pan's Labyrinth(2006) | Rating: 8.2
+Movie: 141.      Tonari no Totoro(1988) | Rating: 8.2
+Movie: 142.      El secreto de sus ojos(2009) | Rating: 8.2
+Movie: 143.      Raging Bull(1980) | Rating: 8.2
+Movie: 144.      Lock, Stock and Two Smoking Barrels(1998) | Rating: 8.2
+Movie: 145.      The Wolf of Wall Street(2013) | Rating: 8.1
+Movie: 146.      The Treasure of the Sierra Madre(1948) | Rating: 8.1
+Movie: 147.      Judgment at Nuremberg(1961) | Rating: 8.1
+Movie: 148.      There Will Be Blood(2007) | Rating: 8.1
+Movie: 149.      Three Billboards Outside Ebbing, Missouri(2017) | Rating: 8.1
+Movie: 150.      Babam ve Oglum(2005) | Rating: 8.1
+Movie: 151.      The Gold Rush(1925) | Rating: 8.1
+Movie: 152.      Chinatown(1974) | Rating: 8.1
+Movie: 153.      Dial M for Murder(1954) | Rating: 8.1
+Movie: 154.      V for Vendetta(2005) | Rating: 8.1
+Movie: 155.      Det sjunde inseglet(1957) | Rating: 8.1
+Movie: 156.      Inside Out(2015) | Rating: 8.1
+Movie: 157.      No Country for Old Men(2007) | Rating: 8.1
+Movie: 158.      Warrior(2011) | Rating: 8.1
+Movie: 159.      Shutter Island(2010) | Rating: 8.1
+Movie: 160.      Trainspotting(1996) | Rating: 8.1
+Movie: 161.      The Elephant Man(1980) | Rating: 8.1
+Movie: 162.      The Sixth Sense(1999) | Rating: 8.1
+Movie: 163.      The Thing(1982) | Rating: 8.1
+Movie: 164.      Room(2015) | Rating: 8.1
+Movie: 165.      Gone with the Wind(1939) | Rating: 8.1
+Movie: 166.      Jurassic Park(1993) | Rating: 8.1
+Movie: 167.      The Bridge on the River Kwai(1957) | Rating: 8.1
+Movie: 168.      Blade Runner(1982) | Rating: 8.1
+Movie: 169.      Smultronstället(1957) | Rating: 8.1
+Movie: 170.      Finding Nemo(2003) | Rating: 8.1
+Movie: 171.      The Third Man(1949) | Rating: 8.1
+Movie: 172.      On the Waterfront(1954) | Rating: 8.1
+Movie: 173.      Fargo(1996) | Rating: 8.1
+Movie: 174.      Stalker(1979) | Rating: 8.1
+Movie: 175.      Kill Bill: Vol. 1(2003) | Rating: 8.1
+Movie: 176.      Gran Torino(2008) | Rating: 8.1
+Movie: 177.      The Truman Show(1998) | Rating: 8.1
+Movie: 178.      Tôkyô monogatari(1953) | Rating: 8.1
+Movie: 179.      The Deer Hunter(1978) | Rating: 8.1
+Movie: 180.      Salinui chueok(2003) | Rating: 8.1
+Movie: 181.      Relatos salvajes(2014) | Rating: 8.1
+Movie: 182.      Eskiya(1996) | Rating: 8.1
+Movie: 183.      Andhadhun(2018) | Rating: 8.1
+Movie: 184.      The Big Lebowski(1998) | Rating: 8.1
+Movie: 185.      Mary and Max(2009) | Rating: 8.1
+Movie: 186.      Klaus(2019) | Rating: 8.1
+Movie: 187.      In the Name of the Father(1993) | Rating: 8.1
+Movie: 188.      Gone Girl(2014) | Rating: 8.1
+Movie: 189.      Hacksaw Ridge(2016) | Rating: 8.1
+Movie: 190.      Ford v Ferrari(2019) | Rating: 8.1
+Movie: 191.      The Grand Budapest Hotel(2014) | Rating: 8.1
+Movie: 192.      Mr. Smith Goes to Washington(1939) | Rating: 8.1
+Movie: 193.      The General(1926) | Rating: 8.1
+Movie: 194.      How to Train Your Dragon(2010) | Rating: 8.1
+Movie: 195.      Persona(1966) | Rating: 8.1
+Movie: 196.      Before Sunrise(1995) | Rating: 8.1
+Movie: 197.      Catch Me If You Can(2002) | Rating: 8.1
+Movie: 198.      Sherlock Jr.(1924) | Rating: 8.1
+Movie: 199.      Prisoners(2013) | Rating: 8.1
+Movie: 200.      12 Years a Slave(2013) | Rating: 8.1
+Movie: 201.      Cool Hand Luke(1967) | Rating: 8.1
+Movie: 202.      Le salaire de la peur(1953) | Rating: 8.1
+Movie: 203.      Mad Max: Fury Road(2015) | Rating: 8.1
+Movie: 204.      Network(1976) | Rating: 8.1
+Movie: 205.      Stand by Me(1986) | Rating: 8.1
+Movie: 206.      Into the Wild(2007) | Rating: 8.1
+Movie: 207.      Barry Lyndon(1975) | Rating: 8.1
+Movie: 208.      Life of Brian(1979) | Rating: 8.1
+Movie: 209.      Million Dollar Baby(2004) | Rating: 8.1
+Movie: 210.      Platoon(1986) | Rating: 8.1
+Movie: 211.      Hachi: A Dog's Tale(2009) | Rating: 8.1
+Movie: 212.      Ben-Hur(1959) | Rating: 8.1
+Movie: 213.      Rush(2013) | Rating: 8.1
+Movie: 214.      Logan(2017) | Rating: 8.0
+Movie: 215.      La passion de Jeanne d'Arc(1928) | Rating: 8.0
+Movie: 216.      Andrei Rublev(1966) | Rating: 8.0
+Movie: 217.      Dead Poets Society(1989) | Rating: 8.0
+Movie: 218.      Harry Potter and the Deathly Hallows: Part 2(2011) | Rating: 8.0
+Movie: 219.      Les quatre cents coups(1959) | Rating: 8.0
+Movie: 220.      Rang De Basanti(2006) | Rating: 8.0
+Movie: 221.      Amores perros(2000) | Rating: 8.0
+Movie: 222.      Hotel Rwanda(2004) | Rating: 8.0
+Movie: 223.      Kaze no tani no Naushika(1984) | Rating: 8.0
+Movie: 224.      Spotlight(2015) | Rating: 8.0
+Movie: 225.      Ah-ga-ssi(2016) | Rating: 8.0
+Movie: 226.      Rebecca(1940) | Rating: 8.0
+Movie: 227.      Rocky(1976) | Rating: 8.0
+Movie: 228.      Portrait de la jeune fille en feu(2019) | Rating: 8.0
+Movie: 229.      Monsters, Inc.(2001) | Rating: 8.0
+Movie: 230.      La haine(1995) | Rating: 8.0
+Movie: 231.      It Happened One Night(1934) | Rating: 8.0
+Movie: 232.      Faa yeung nin wa(2000) | Rating: 8.0
+Movie: 233.      Ace in the Hole(1951) | Rating: 8.0
+Movie: 234.      The Princess Bride(1987) | Rating: 8.0
+Movie: 235.      Before Sunset(2004) | Rating: 8.0
+Movie: 236.      Gangs of Wasseypur(2012) | Rating: 8.0
+Movie: 237.      The Red Shoes(1948) | Rating: 8.0
+Movie: 238.      The Help(2011) | Rating: 8.0
+Movie: 239.      Paris, Texas(1984) | Rating: 8.0
+Movie: 240.      Lagaan: Once Upon a Time in India(2001) | Rating: 8.0
+Movie: 241.      The Terminator(1984) | Rating: 8.0
+Movie: 242.      Contratiempo(2016) | Rating: 8.0
+Movie: 243.      Butch Cassidy and the Sundance Kid(1969) | Rating: 8.0
+Movie: 244.      Drishyam(2015) | Rating: 8.0
+Movie: 245.      Akira(1988) | Rating: 8.0
+Movie: 246.      PK(2014) | Rating: 8.0
+Movie: 247.      Aladdin(1992) | Rating: 8.0
+Movie: 248.      White Heat(1949) | Rating: 8.0
+Movie: 249.      Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni(1997) | Rating: 8.0
+Movie: 250.      Kis Uykusu(2014) | Rating: 8.0
